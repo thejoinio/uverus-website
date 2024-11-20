@@ -1,0 +1,5 @@
+[phases]
+build = "npm run build"
+
+[commands]
+start = "npm run start"
